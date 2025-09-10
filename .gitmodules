@@ -1,0 +1,3 @@
+[submodule "expensesFrontend"]
+	path = expensesFrontend
+	url = https://github.com/jagadeeswari-saranraj/expensesFrontend.git
